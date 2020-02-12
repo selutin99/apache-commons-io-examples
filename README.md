@@ -1,10 +1,10 @@
 # apache-commons-io
 
-Apache Commons IO – это компоненты Apache Commons, 
-которые являются производными от Java API и предоставляют 
-различные служебные классы для общих операций для File IO, 
-охватывающие широкий спектр вариантов использования. 
-Это помогает избежать написания стандартного кода. 
+Apache Commons IO are Apache Commons components, 
+which are derived from the Java API and provide 
+various utility classes for common operations for File IO, 
+covering a wide range of use cases. 
+This helps to avoid writing the standard code.
 
-###Примеры:
-1. IOUtilsExample (сравнение с BufferedReader)
+###Examples:
+1. IOUtilsExample (comparison with BufferedReader class)
