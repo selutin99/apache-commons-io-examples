@@ -24,6 +24,7 @@ public class IOUtilsExample {
         }
     }
 
+
     private static void readUsingTraditionalWay() throws IOException {
         try(BufferedReader bufferReader = new BufferedReader(new InputStreamReader(
                 new FileInputStream(FILE_NAME)))) {
@@ -31,6 +32,7 @@ public class IOUtilsExample {
             while( ( line = bufferReader.readLine() ) != null ) System.out.println( line );
         }
     }
+
 
     private static void readUsingIOUtils() throws IOException {
         try(InputStream in = new FileInputStream(FILE_NAME)) {

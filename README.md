@@ -8,3 +8,8 @@ This helps to avoid writing the standard code.
 
 ### Examples:
 1. IOUtilsExample (comparison with BufferedReader class)
+2. IOFilesExample (working with Temp directory)
+3. IOFilenameUtilsExample (working with filenames)
+4. IOFileSystemUtils (get free space on disk)
+5. IOCaseExample (check strings on equality)
+6. IOLineIterator
