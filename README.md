@@ -13,3 +13,6 @@ This helps to avoid writing the standard code.
 4. IOFileSystemUtils (get free space on disk)
 5. IOCaseExample (check strings on equality)
 6. IOLineIterator
+##### Filters
+7. WildCardFileFilter (filter files in directory)
+8. NameFileFilterExample
