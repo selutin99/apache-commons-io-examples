@@ -16,3 +16,5 @@ This helps to avoid writing the standard code.
 ##### Filters
 7. WildCardFileFilter (filter files in directory)
 8. NameFileFilterExample
+9. SuffixFileFilterExample (filter by extensions of files)
+10. PrefixFileFilterExample
